@@ -98,6 +98,6 @@ Duplicate or invalid edges are ignored.
 
 
 
-👨‍💻 Sylvestre IBOMBO GAKOSSO
+👨‍💻 Godfred Appiah Baah
 
 Developed as an exercise on graph optimization algorithms.
